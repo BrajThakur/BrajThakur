@@ -1,18 +1,17 @@
-## Hi there 👋
+## 👋 Introduction
+
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
+
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=secretlzm007&color=7BB32E&logo=wechat) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/lizheming)
+
+Hi guys, I'm **Braj Thakur**. I am a Fullstack web developer fromIndia. I'm currently working on @Bytedance as a Font-End engineer.  
+I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
+
+
 
 <!--
-**BrajThakur/BrajThakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lizheming/lizheming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+[2]: https://segmentfault.com/u/lizheming
+[3]: https://www.v2ex.com/member/lizheming
